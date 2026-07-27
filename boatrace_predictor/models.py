@@ -58,6 +58,30 @@ class RacerEntry:
 
 
 @dataclass
+class RaceConditions:
+    """水面・気象などのレース条件。
+
+    公式の競走成績(K)ファイルなどから取得できる項目。予想・学習で
+    コース有利度と相互作用させて使う（例: 風が強いとまくりが決まりやすい等）。
+
+    Attributes:
+        weather: 天候（"晴"/"曇"/"雨"/"雪"/"霧" など）。
+        wind_speed: 風速(m/s)。
+        wind_direction: 風向（公式表記の方位番号または文字列、任意）。
+        wave_height: 波高(cm)。
+        temperature: 気温(℃)。
+        water_temp: 水温(℃)。
+    """
+
+    weather: Optional[str] = None
+    wind_speed: Optional[float] = None
+    wind_direction: Optional[str] = None
+    wave_height: Optional[float] = None
+    temperature: Optional[float] = None
+    water_temp: Optional[float] = None
+
+
+@dataclass
 class Race:
     """1レース分の情報。
 
@@ -67,6 +91,7 @@ class Race:
         venue: レース場名（例: 児島）。
         race_no: レース番号（例: 12）。
         date: 開催日（YYYY-MM-DD、任意）。
+        conditions: 水面・気象条件（任意）。
     """
 
     entries: list[RacerEntry]
@@ -74,6 +99,7 @@ class Race:
     venue: str = ""
     race_no: Optional[int] = None
     date: Optional[str] = None
+    conditions: "RaceConditions" = field(default_factory=lambda: RaceConditions())
 
     def __post_init__(self) -> None:
         boats = [e.boat for e in self.entries]

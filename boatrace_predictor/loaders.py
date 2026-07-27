@@ -13,7 +13,7 @@ import csv
 import json
 from typing import Optional
 
-from .models import Race, RacerEntry
+from .models import Race, RaceConditions, RacerEntry
 
 # CSV / JSON のキー別名（日本語ヘッダにも対応）。
 _ALIASES = {
@@ -71,6 +71,22 @@ def _row_to_entry(row: dict) -> RacerEntry:
     return RacerEntry(**kwargs)
 
 
+def _conditions_from_dict(data: dict) -> RaceConditions:
+    c = data.get("conditions") or {}
+    return RaceConditions(
+        weather=c.get("weather"),
+        wind_speed=_as_float(c.get("wind_speed")),
+        wind_direction=c.get("wind_direction"),
+        wave_height=_as_float(c.get("wave_height")),
+        temperature=_as_float(c.get("temperature")),
+        water_temp=_as_float(c.get("water_temp")),
+    )
+
+
+def _as_float(v):
+    return None if v in (None, "") else float(v)
+
+
 def load_race_from_dict(data: dict) -> Race:
     entries = [_row_to_entry(e) for e in data["entries"]]
     return Race(
@@ -79,6 +95,7 @@ def load_race_from_dict(data: dict) -> Race:
         venue=data.get("venue", ""),
         race_no=data.get("race_no"),
         date=data.get("date"),
+        conditions=_conditions_from_dict(data),
     )
 
 

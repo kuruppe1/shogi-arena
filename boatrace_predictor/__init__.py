@@ -8,7 +8,7 @@
     pred = Predictor().predict(race)
     print(format_prediction(pred))
 """
-from .models import Race, RacerEntry
+from .models import Race, RaceConditions, RacerEntry
 from .scoring import ScoreWeights
 from .predictor import Predictor, RacePrediction
 from .loaders import (
@@ -17,9 +17,11 @@ from .loaders import (
     load_race_from_json,
 )
 from .report import format_prediction
+from .training import LearnedModel, TrainConfig, train
 
 __all__ = [
     "Race",
+    "RaceConditions",
     "RacerEntry",
     "ScoreWeights",
     "Predictor",
@@ -28,6 +30,9 @@ __all__ = [
     "load_race_from_dict",
     "load_race_from_json",
     "format_prediction",
+    "LearnedModel",
+    "TrainConfig",
+    "train",
 ]
 
 __version__ = "0.1.0"

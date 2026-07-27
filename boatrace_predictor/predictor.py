@@ -35,16 +35,26 @@ class RacePrediction:
 
 
 class Predictor:
-    """設定可能な重みでレースを予想する。"""
+    """レースを予想する。
 
-    def __init__(self, weights: ScoreWeights | None = None):
+    2通りの効用（強さ）算出に対応:
+      - 既定: ScoreWeights による事前重み（学習不要ですぐ使える）。
+      - learned_model を渡すと、過去データで学習した係数を使う
+        （training.LearnedModel。`.utilities(race)` を持つオブジェクトなら可）。
+    """
+
+    def __init__(self, weights: ScoreWeights | None = None, learned_model=None):
         self.weights = weights or ScoreWeights()
+        self.learned_model = learned_model
 
     def predict(self, race: Race) -> RacePrediction:
-        field_avg = FieldAverages.from_race(race)
-        utilities = {
-            e.boat: racer_strength(e, self.weights, field_avg) for e in race.entries
-        }
+        if self.learned_model is not None:
+            utilities = self.learned_model.utilities(race)
+        else:
+            field_avg = FieldAverages.from_race(race)
+            utilities = {
+                e.boat: racer_strength(e, self.weights, field_avg) for e in race.entries
+            }
         weights = pl.utilities_to_weights(utilities)
         return RacePrediction(
             race=race,
