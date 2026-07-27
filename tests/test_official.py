@@ -74,6 +74,37 @@ class TestParseK(unittest.TestCase):
         self.assertAlmostEqual(r.start_timing[2], 0.14)
 
 
+class TestFetchProgram(unittest.TestCase):
+    """ネットワークをモックして、番組表→Race 選択ロジックを検証。"""
+
+    def setUp(self):
+        self._dl = official.download
+        self._ex = official.extract_lzh
+        official.download = lambda url, timeout=30: b"DUMMY"
+        official.extract_lzh = lambda data: B_TEXT
+
+    def tearDown(self):
+        official.download = self._dl
+        official.extract_lzh = self._ex
+
+    def test_fetch_by_name_and_code(self):
+        r1 = official.fetch_program(date(2026, 7, 26), "桐生", 1)
+        self.assertEqual(r1.venue, "桐生")
+        self.assertEqual(len(r1.entries), 6)
+        r2 = official.fetch_program(date(2026, 7, 26), "01", 1)
+        self.assertEqual(r2.venue, "桐生")
+
+    def test_missing_venue_lists_available(self):
+        with self.assertRaises(RuntimeError) as ctx:
+            official.fetch_program(date(2026, 7, 26), "児島", 1)
+        self.assertIn("桐生", str(ctx.exception))
+
+    def test_missing_race_lists_available(self):
+        with self.assertRaises(RuntimeError) as ctx:
+            official.fetch_program(date(2026, 7, 26), "桐生", 5)
+        self.assertIn("1", str(ctx.exception))
+
+
 class TestJoin(unittest.TestCase):
     def test_build_races_with_results(self):
         b = official.parse_b_text(B_TEXT, "2026-07-26")

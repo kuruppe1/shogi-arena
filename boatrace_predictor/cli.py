@@ -56,6 +56,14 @@ def _prediction_to_dict(pred) -> dict:
 
 
 def _load_race(args):
+    if getattr(args, "fetch_date", None):
+        from datetime import datetime
+        from . import official
+        d = datetime.strptime(args.fetch_date, "%Y-%m-%d").date()
+        if not args.venue or not args.race:
+            raise SystemExit("--fetch-date には --venue と --race も指定してください")
+        return official.fetch_program(d, args.venue, int(args.race),
+                                      base=args.base or official.DEFAULT_BASE)
     if args.csv:
         return load_race_from_csv(args.csv, title=args.title, venue=args.venue)
     if args.json:
@@ -196,9 +204,12 @@ def build_parser() -> argparse.ArgumentParser:
     src.add_argument("--json")
     src.add_argument("--csv")
     src.add_argument("--demo", action="store_true")
+    src.add_argument("--fetch-date", help="公式番組表を取得して予想する日 YYYY-MM-DD")
+    pp.add_argument("--race", help="--fetch-date 時のレース番号")
+    pp.add_argument("--base", help="公式配布ベースURL（既定: mbrace）")
     pp.add_argument("--model", help="学習済みモデル(JSON)。指定時はこれで予想")
     pp.add_argument("--title", default="")
-    pp.add_argument("--venue", default="")
+    pp.add_argument("--venue", default="", help="会場名(児島)または会場コード(16)")
     pp.add_argument("--format", choices=["text", "json"], default="text")
     pp.set_defaults(func=cmd_predict)
 

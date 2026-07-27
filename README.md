@@ -27,6 +27,31 @@
 | 事前モデル（既定） | 不要 | ◎ | コース・勝率・機力・ST・F/L |
 | 学習モデル | 過去データが必要 | 取得できる環境で | 上記＋**天候・風・波**の相互作用 |
 
+## 📱 スマホだけで動かす（PC不要）
+
+PCがなくても、スマホのブラウザから **Google Colab** で実行できます。Colab は
+公式サイトに通信できるので、取得・学習・予想がそのままできます。
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuruppe1/shogi-arena/blob/claude/ocean-cup-31-ai-prediction-if4zwd/notebooks/ocean_cup_colab.ipynb)
+
+上のバッジをタップ → セルを上から順に実行するだけ。実際のレースは次の1行で予想できます:
+
+```bash
+# 開催日・会場（児島 など）・レース番号を指定（当日/未来のレースも番組表があればOK）
+python -m boatrace_predictor.cli predict --fetch-date 2026-07-27 --venue 児島 --race 12
+```
+
+**Android** なら [Termux](https://termux.dev/) アプリでも動きます:
+
+```bash
+pkg install -y python git && pip install lhafile
+git clone -b claude/ocean-cup-31-ai-prediction-if4zwd https://github.com/kuruppe1/shogi-arena.git
+cd shogi-arena && python -m boatrace_predictor.cli predict --demo
+```
+
+（iPhone は a-Shell / Pythonista でも可能ですが、LZH解凍ライブラリの導入が
+やや面倒なので **Colab が一番ラク**です。）
+
 ## クイックスタート
 
 ```bash
@@ -198,7 +223,8 @@ boatrace_predictor/
 ├─ report.py         整形出力
 └─ cli.py            コマンドライン（predict/fetch/train/selftest）
 data/                サンプルデータ
-tests/               ユニットテスト（28件）
+notebooks/           スマホ実行用 Colab ノート
+tests/               ユニットテスト（31件）
 ```
 
 ## 注意

@@ -139,6 +139,46 @@ class BProgram:
     date: Optional[str]
     entries: List[RacerEntry]
 
+    def to_race(self) -> Race:
+        return Race(
+            entries=self.entries, venue=self.venue, race_no=self.race_no,
+            date=self.date, title=f"{self.venue} {self.race_no}R",
+        )
+
+
+def _venue_matches(bp: "BProgram", venue: str) -> bool:
+    """venue は会場名（児島）でも会場コード（16 / '16'）でも可。"""
+    v = str(venue).strip()
+    return v == bp.venue or v == bp.venue_code or v.zfill(2) == bp.venue_code
+
+
+def fetch_program(
+    d: _date, venue: str, race_no: int, base: str = DEFAULT_BASE
+) -> Race:
+    """指定日・会場・レースの番組表(B)を取得して Race を返す（未来のレース予想用）。
+
+    まだ結果が出ていないレースでも、その日の番組表さえ配布されていれば予想できる。
+    見つからない場合は、その会場で利用可能なレース番号を添えて例外を投げる。
+    """
+    ymd = d.strftime("%Y-%m-%d")
+    text = extract_lzh(download(lzh_url("b", d, base)))
+    programs = parse_b_text(text, ymd)
+    if not programs:
+        raise RuntimeError(f"{ymd} の番組表を解析できませんでした（配布前/形式差の可能性）。")
+    matches = [p for p in programs if _venue_matches(p, venue)]
+    if not matches:
+        venues = sorted({f"{p.venue}({p.venue_code})" for p in programs})
+        raise RuntimeError(
+            f"{ymd} に会場 '{venue}' が見つかりません。開催中の会場: {', '.join(venues)}"
+        )
+    for p in matches:
+        if p.race_no == race_no:
+            return p.to_race()
+    races = sorted({p.race_no for p in matches})
+    raise RuntimeError(
+        f"{ymd} {matches[0].venue} に {race_no}R がありません。利用可能: {races}R"
+    )
+
 
 def parse_b_text(text: str, date_str: Optional[str] = None) -> List[BProgram]:
     """番組表テキストを会場×レース単位に解析する。"""
