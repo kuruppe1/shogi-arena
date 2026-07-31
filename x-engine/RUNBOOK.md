@@ -26,6 +26,8 @@
   - `<channel>` 内の先頭(既存itemの上)に新しい `<item>` を追加
   - `<title>`: 本文の1行目(30字程度で切ってよい)
   - `<description>`: `<![CDATA[ ]]>` で本文全文(改行そのまま)
+  - `<link>`: `https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-NNNN`
+    (IFTTTはitemにlinkが無いとフィードを無効扱いにするため必須。投稿本文には使われない)
   - `<guid isPermaLink="false">`: `post-NNNN` (連番をインクリメント)
   - `<pubDate>`: 現在時刻(RFC822形式。`date -R` で取得)
   - `<lastBuildDate>` も現在時刻に更新
