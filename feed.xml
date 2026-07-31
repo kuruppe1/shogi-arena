@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>くらしの実験室 投稿キュー</title>
+<link>https://github.com/kuruppe1/shogi-arena</link>
+<description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
+<language>ja</language>
+<lastBuildDate>Fri, 31 Jul 2026 15:45:00 +0000</lastBuildDate>
+<item>
+<title>朝起きられない人はカーテンを10cm開けて寝る</title>
+<description><![CDATA[朝起きられない人は目覚ましを増やすより、カーテンを10cm開けて寝るほうが効く。
+光で起きると音より体が楽。
+1週間やったら目覚まし2個には戻れなかった。]]></description>
+<guid isPermaLink="false">post-0003</guid>
+<pubDate>Fri, 31 Jul 2026 15:45:00 +0000</pubDate>
+</item>
+<item>
+<title>買って生活が変わった千円以下のもの</title>
+<description><![CDATA[買って生活が変わった千円以下のもの
+・ケーブルバンド
+・キーボード掃除のスライム
+・玄関の鍵置きトレー
+どれも地味。でも「探す時間」が消えた。]]></description>
+<guid isPermaLink="false">post-0002</guid>
+<pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
+</item>
+<item>
+<title>散らかりの原因は物じゃなくて電源の位置</title>
+<description><![CDATA[延長コードを変えるだけで机が片付くの、嘘だと思ってた。
+電源タップを卓上型にしたら充電ケーブルが全部定位置に収まる。
+散らかりの原因は物じゃなくて、電源の位置だった。]]></description>
+<guid isPermaLink="false">post-0001</guid>
+<pubDate>Fri, 31 Jul 2026 15:35:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
