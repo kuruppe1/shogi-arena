@@ -36,7 +36,7 @@
 ### 5. 記録
 - `x-engine/log.md` に行を追加: 日付 / guid / 型 / ネタ / 本文
 - `x-engine/topics.md` の使ったネタを `- [x]` にして `(→post-NNNNで使用)` を付記
-- topics.md の未使用在庫が10個未満なら、topics.md末尾の補充ルールに従いWeb検索で5個以上補充する
+- topics.md の未使用在庫が10個未満なら、topics.md末尾の補充ルールに従いXリサーチ(claude-in-chrome)を優先して5個以上補充する
 
 ### 6. コミットとプッシュ
 - mainブランチ上で直接コミットし、`git push origin main` でプッシュする
