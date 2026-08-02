@@ -40,10 +40,10 @@ public static class ShogiSceneSplitter
     {
         var scene = EditorSceneManager.OpenScene(GamePlayScenePath, OpenSceneMode.Single);
 
-        Debug.Log("=== [ShogiSceneSplitter] 03_GamePlay ルートオブジェクト一覧 ===");
+        Debug.Log("=== [ShogiSceneSplitter] 03_GamePlay 全階層(ルートから全ての子孫まで) ===");
         foreach (var root in scene.GetRootGameObjects())
         {
-            Debug.Log($"ROOT: {root.name}");
+            PrintHierarchy(root.transform, 0);
         }
 
         Debug.Log("=== [ShogiSceneSplitter] 移動対象オブジェクト -> ルート祖先 ===");
@@ -59,7 +59,16 @@ public static class ShogiSceneSplitter
             Debug.Log($"{name} -> root: {root.name}{(root == go ? " (自身がルート)" : "")}");
         }
 
-        Debug.Log("=== [ShogiSceneSplitter] 上記を確認したうえで、問題なければ手順2を実行してください ===");
+        Debug.Log("=== [ShogiSceneSplitter] 全階層を見て、各ルートグループの中身が「移動していい物だけ」か確認してください ===");
+    }
+
+    private static void PrintHierarchy(Transform t, int depth)
+    {
+        Debug.Log(new string('-', depth * 2) + " " + t.name);
+        for (int i = 0; i < t.childCount; i++)
+        {
+            PrintHierarchy(t.GetChild(i), depth + 1);
+        }
     }
 
     [MenuItem("ShogiArena/Scene Split/2. Split MainMenu from GamePlay")]
