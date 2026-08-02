@@ -76,7 +76,7 @@ public static class ShogiSceneSplitter
         }
 
         var gamePlayScene = EditorSceneManager.OpenScene(GamePlayScenePath, OpenSceneMode.Single);
-        var mainMenuScene = EditorSceneManager.NewScene(NewSceneSetup.EmptyScene, NewSceneSetupMode.Additive);
+        var mainMenuScene = EditorSceneManager.NewScene(NewSceneSetup.EmptyScene, NewSceneMode.Additive);
 
         var movedRoots = new HashSet<GameObject>();
         var notFound = new List<string>();
