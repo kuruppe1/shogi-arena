@@ -167,10 +167,54 @@ public static class ShogiSceneSplitter
         EditorSceneManager.SaveScene(gamePlayScene, GamePlayScenePath);
 
         Debug.Log($"[ShogiSceneSplitter] 完了。{movedCount}件を01_MainMenu.unityへ移動し(+仮のカメラ/ライトを追加)、" +
-                  "両シーンを保存しました。Unity上で両シーンを開いて内容を確認してください。" +
-                  "また、ShogiSceneManagerのsceneDatabase(Inspector)で各SceneTypeにsceneNameが" +
-                  "正しく設定されているか(MainMenu=\"01_MainMenu\", Game=\"03_GamePlay\"等)を確認し、" +
-                  "Build Settingsに01_MainMenu, 02_ModeSelect, 03_GamePlay, 04_Settingsを" +
-                  "この順で登録してください(01_MainMenuが最初=起動シーン)。");
+                  "両シーンを保存しました。続けて手順3(Configure Scene Database & Build Settings)を実行してください。");
+    }
+
+    [MenuItem("ShogiArena/Scene Split/3. Configure SceneDatabase & Build Settings")]
+    public static void ConfigureSceneDatabaseAndBuildSettings()
+    {
+        // --- ShogiSceneManagerのsceneDatabaseを設定 ---
+        var scene = EditorSceneManager.OpenScene(MainMenuScenePath, OpenSceneMode.Single);
+
+        var sceneManagerGO = GameObject.Find("SceneManager");
+        if (sceneManagerGO == null)
+        {
+            Debug.LogError("[ShogiSceneSplitter] 01_MainMenuに'SceneManager'オブジェクトが見つかりません。手順2を先に実行してください。");
+            return;
+        }
+
+        var shogiSceneManager = sceneManagerGO.GetComponent<ShogiSceneManager>();
+        if (shogiSceneManager == null)
+        {
+            Debug.LogError("[ShogiSceneSplitter] 'SceneManager'にShogiSceneManagerコンポーネントがありません。");
+            return;
+        }
+
+        // SceneType.ModeSelectは存在しないため対象外(別途相談)
+        shogiSceneManager.sceneDatabase = new[]
+        {
+            new SceneData { sceneType = SceneType.MainMenu, sceneName = "01_MainMenu", displayName = "メインメニュー", minLoadTime = 0.5f },
+            new SceneData { sceneType = SceneType.Game, sceneName = "03_GamePlay", displayName = "対局", minLoadTime = 0.5f },
+            new SceneData { sceneType = SceneType.Settings, sceneName = "04_Settings", displayName = "設定", minLoadTime = 0.5f },
+        };
+
+        EditorUtility.SetDirty(shogiSceneManager);
+        EditorSceneManager.MarkSceneDirty(scene);
+        EditorSceneManager.SaveScene(scene, MainMenuScenePath);
+
+        Debug.Log("[ShogiSceneSplitter] sceneDatabaseを設定しました: MainMenu->01_MainMenu, Game->03_GamePlay, Settings->04_Settings");
+
+        // --- Build Settingsに4シーンを登録 ---
+        var buildScenes = new[]
+        {
+            new EditorBuildSettingsScene(MainMenuScenePath, true),
+            new EditorBuildSettingsScene("Assets/Scenes/02_ModeSelect.unity", true),
+            new EditorBuildSettingsScene(GamePlayScenePath, true),
+            new EditorBuildSettingsScene("Assets/Scenes/04_Settings.unity", true),
+        };
+        EditorBuildSettings.scenes = buildScenes;
+
+        Debug.Log("[ShogiSceneSplitter] Build Settingsに4シーンを登録しました(01_MainMenuが起動シーン)。" +
+                  "File > Build Settingsを開いて確認してください。");
     }
 }
