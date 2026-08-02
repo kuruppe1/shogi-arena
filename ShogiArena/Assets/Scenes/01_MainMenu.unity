@@ -1081,7 +1081,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 306e807c0b95e6c41bfaa47f9cf6e8fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneDatabase: []
+  sceneDatabase:
+  - sceneType: 0
+    sceneName: 01_MainMenu
+    displayName: Main Menu
+    preloadAssets: 0
+    minLoadTime: 0.5
+    bgmClip: {fileID: 0}
+  - sceneType: 1
+    sceneName: 03_GamePlay
+    displayName: Game
+    preloadAssets: 0
+    minLoadTime: 0.5
+    bgmClip: {fileID: 0}
+  - sceneType: 2
+    sceneName: 04_Settings
+    displayName: Settings
+    preloadAssets: 0
+    minLoadTime: 0.5
+    bgmClip: {fileID: 0}
   enableLoadingScreen: 1
   enableTransitionEffects: 1
   transitionDuration: 0.5
