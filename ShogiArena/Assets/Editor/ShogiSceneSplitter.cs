@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using System.IO;
+using System.Text;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
@@ -35,39 +37,49 @@ public static class ShogiSceneSplitter
         "EventSystem", "Main Camera", "PhotonMono",
     };
 
+    // プロジェクトルート直下(Assetsフォルダの外)に書き出す。Unityのアセットインポート対象にならないので安全。
+    private static readonly string ReportFilePath =
+        Path.Combine(Application.dataPath, "..", "scene_hierarchy_report.txt");
+
     [MenuItem("ShogiArena/Scene Split/1. Report Hierarchy (dry run)")]
     public static void ReportHierarchy()
     {
         var scene = EditorSceneManager.OpenScene(GamePlayScenePath, OpenSceneMode.Single);
+        var sb = new StringBuilder();
 
-        Debug.Log("=== [ShogiSceneSplitter] 03_GamePlay 全階層(ルートから全ての子孫まで) ===");
+        sb.AppendLine("=== 03_GamePlay 全階層(ルートから全ての子孫まで) ===");
         foreach (var root in scene.GetRootGameObjects())
         {
-            PrintHierarchy(root.transform, 0);
+            AppendHierarchy(sb, root.transform, 0);
         }
 
-        Debug.Log("=== [ShogiSceneSplitter] 移動対象オブジェクト -> ルート祖先 ===");
+        sb.AppendLine();
+        sb.AppendLine("=== 移動対象オブジェクト -> ルート祖先 ===");
         foreach (var name in TargetObjectNames)
         {
             var go = GameObject.Find(name);
             if (go == null)
             {
-                Debug.LogWarning($"見つかりません: {name}");
+                sb.AppendLine($"見つかりません: {name}");
                 continue;
             }
             var root = go.transform.root.gameObject;
-            Debug.Log($"{name} -> root: {root.name}{(root == go ? " (自身がルート)" : "")}");
+            sb.AppendLine($"{name} -> root: {root.name}{(root == go ? " (自身がルート)" : "")}");
         }
 
-        Debug.Log("=== [ShogiSceneSplitter] 全階層を見て、各ルートグループの中身が「移動していい物だけ」か確認してください ===");
+        File.WriteAllText(ReportFilePath, sb.ToString(), Encoding.UTF8);
+        var fullPath = Path.GetFullPath(ReportFilePath);
+
+        Debug.Log($"[ShogiSceneSplitter] レポートを書き出しました: {fullPath}");
+        Debug.Log("[ShogiSceneSplitter] このファイルをメモ帳等で開いて、中身を全部コピーしてClaudeに貼り付けてください。");
     }
 
-    private static void PrintHierarchy(Transform t, int depth)
+    private static void AppendHierarchy(StringBuilder sb, Transform t, int depth)
     {
-        Debug.Log(new string('-', depth * 2) + " " + t.name);
+        sb.AppendLine(new string('-', depth * 2) + " " + t.name);
         for (int i = 0; i < t.childCount; i++)
         {
-            PrintHierarchy(t.GetChild(i), depth + 1);
+            AppendHierarchy(sb, t.GetChild(i), depth + 1);
         }
     }
 
