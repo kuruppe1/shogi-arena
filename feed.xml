@@ -5,7 +5,14 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 05 Aug 2026 12:57:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:39:00 +0000</lastBuildDate>
+<item>
+<title>クローゼットの床に物が積まれる原因</title>
+<description><![CDATA[クローゼットの床に物が積まれるのは、収納力じゃなくて、しゃがんで畳んで置くという動作が地味に多いから。ハンガーポールの余白に吊り下げ収納を足すだけで、しゃがむ工程がまるごと消える。「上着」「バッグ」と仕切りごとに決めておけば、迷わず戻せる。 #暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0023</link>
+<guid isPermaLink="false">post-0023</guid>
+<pubDate>Wed, 05 Aug 2026 22:39:00 +0000</pubDate>
+</item>
 <item>
 <title>通知に邪魔されない卓上タイマー選び(PR)</title>
 <description><![CDATA[スマホでタイマーをかけると、セットする前に通知が目に入ってそのままアプリを開いてしまうことがある。物理ボタンの卓上タイマーなら、磁石で冷蔵庫や棚に貼っておけるので置き場所に迷わず、画面を見ずに数秒でセットできて思ったより楽。5分だけを邪魔されずに測りたい人向け→https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC&tag=kurashilabo3-22 #PR #暮らしの実験室 #節約]]></description>
@@ -166,15 +173,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0004</link>
 <guid isPermaLink="false">post-0004</guid>
 <pubDate>Fri, 31 Jul 2026 22:36:52 +0000</pubDate>
-</item>
-<item>
-<title>朝起きられない人はカーテンを10cm開けて寝る</title>
-<description><![CDATA[朝起きられない人は目覚ましを増やすより、カーテンを10cm開けて寝るほうが効く。
-光で起きると音より体が楽。
-1週間やったら目覚まし2個には戻れなかった。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0003</link>
-<guid isPermaLink="false">post-0003</guid>
-<pubDate>Fri, 31 Jul 2026 15:45:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
