@@ -5,7 +5,14 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 05 Aug 2026 03:38:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 12:57:11 +0000</lastBuildDate>
+<item>
+<title>通知に邪魔されない卓上タイマー選び(PR)</title>
+<description><![CDATA[スマホでタイマーをかけると、セットする前に通知が目に入ってそのままアプリを開いてしまうことがある。物理ボタンの卓上タイマーなら、磁石で冷蔵庫や棚に貼っておけるので置き場所に迷わず、画面を見ずに数秒でセットできて思ったより楽。5分だけを邪魔されずに測りたい人向け→https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC&tag=kurashilabo3-22 #PR #暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0022</link>
+<guid isPermaLink="false">post-0022</guid>
+<pubDate>Wed, 05 Aug 2026 12:57:11 +0000</pubDate>
+</item>
 <item>
 <title>「やる気が出たら」を待ってると一生手を付けない</title>
 <description><![CDATA[「やる気が出たら」を待ってると大体一生手を付けない。始める前に全体量を想像して、実際より重く感じるのが原因。タイマーを5分だけセットして始めると、終わりが最初から見えてるぶん着手のハードルだけ下がる。正直5分で切り上げてもいいはずが、大抵はそのまま続けてしまう。
@@ -168,17 +175,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0003</link>
 <guid isPermaLink="false">post-0003</guid>
 <pubDate>Fri, 31 Jul 2026 15:45:00 +0000</pubDate>
-</item>
-<item>
-<title>買って生活が変わった千円以下のもの</title>
-<description><![CDATA[買って生活が変わった千円以下のもの
-・ケーブルバンド
-・キーボード掃除のスライム
-・玄関の鍵置きトレー
-どれも地味。でも「探す時間」が消えた。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0002</link>
-<guid isPermaLink="false">post-0002</guid>
-<pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
