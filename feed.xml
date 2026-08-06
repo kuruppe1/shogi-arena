@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 05 Aug 2026 22:39:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 03:38:53 +0000</lastBuildDate>
+<item>
+<title>洗濯物、乾いたら畳む派？それとも吊るす派？</title>
+<description><![CDATA[洗濯物、乾いたら畳む派？そのまま吊るす派？
+畳むのが面倒なんじゃなく、外す→畳む→しまうを毎回やり直すのがしんどいだけかもしれない。
+洗濯バサミ付きハンガーのままクローゼットのポールに掛けると、外すのも畳むのもいらなくなる。
+畳む派はどこで踏ん張ってる？逆に聞きたい。 #暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0024</link>
+<guid isPermaLink="false">post-0024</guid>
+<pubDate>Thu, 06 Aug 2026 03:38:53 +0000</pubDate>
+</item>
 <item>
 <title>クローゼットの床に物が積まれる原因</title>
 <description><![CDATA[クローゼットの床に物が積まれるのは、収納力じゃなくて、しゃがんで畳んで置くという動作が地味に多いから。ハンガーポールの余白に吊り下げ収納を足すだけで、しゃがむ工程がまるごと消える。「上着」「バッグ」と仕切りごとに決めておけば、迷わず戻せる。 #暮らしの実験室 #収納]]></description>
@@ -164,15 +174,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0005</link>
 <guid isPermaLink="false">post-0005</guid>
 <pubDate>Sun, 02 Aug 2026 02:47:41 +0900</pubDate>
-</item>
-<item>
-<title>突っ張り棒は縦に使うと収納が増える</title>
-<description><![CDATA[突っ張り棒は縦にも使えるって知ってから、洗面所の収納が倍になった。
-棚板の間に立てて仕切りにするだけ。
-100均で2本買ってきて、作業は10分で終わった。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0004</link>
-<guid isPermaLink="false">post-0004</guid>
-<pubDate>Fri, 31 Jul 2026 22:36:52 +0000</pubDate>
 </item>
 </channel>
 </rss>
