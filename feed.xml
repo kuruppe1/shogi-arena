@@ -5,7 +5,18 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Fri, 07 Aug 2026 11:40:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:39:33 +0000</lastBuildDate>
+<item>
+<title>衝動買いを減らす習慣3つ</title>
+<description><![CDATA[衝動買いを減らす習慣3つ
+・欲しい物はカートに入れて1日置く(翌日も欲しければ買う。勢いだけ削れる)
+・レシートは撮ったその場で捨てる(正直、貯めると集計が億劫で家計簿ごとやめがち)
+・「安いから」でなく「いつ使うか言えるか」で判断する。言えない物は結局使わない。
+#暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0029</link>
+<guid isPermaLink="false">post-0029</guid>
+<pubDate>Fri, 07 Aug 2026 22:39:33 +0000</pubDate>
+</item>
 <item>
 <title>排水口ネット、箱買いするときサイズだけ見落としがち(PR)</title>
 <description><![CDATA[排水口ネット、箱買いするときサイズだけ見落としがちです。フリーサイズのつもりで買うと、排水口によっては緩んでズレたり、逆に伸びずに破れたりします。丸型・角型、深型・浅型の表記を先に確認しておくと、箱の分だけ無駄なく使いきれます。まとめ買いの参考にどうぞ→https://www.amazon.co.jp/s?k=%E6%8E%92%E6%B0%B4%E5%8F%A3%E3%83%8D%E3%83%83%E3%83%88&tag=kurashilabo3-22 #PR #暮らしの実験室 #掃除]]></description>
@@ -159,17 +170,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0010</link>
 <guid isPermaLink="false">post-0010</guid>
 <pubDate>Sun, 02 Aug 2026 05:34:27 +0900</pubDate>
-</item>
-<item>
-<title>夜のひと手間で朝の判断を減らす</title>
-<description><![CDATA[朝をラクにするなら、夜のうちにできることがあります。
-・スマホの充電はベッドから少し離れた場所で
-・寝る前の照明は暖色に切り替える
-・明日着る服は前夜に椅子へ
-どれも数分で終わりますが、朝の判断が一つ減ります。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0009</link>
-<guid isPermaLink="false">post-0009</guid>
-<pubDate>Sun, 02 Aug 2026 05:29:27 +0900</pubDate>
 </item>
 </channel>
 </rss>
