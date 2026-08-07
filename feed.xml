@@ -5,7 +5,14 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Fri, 07 Aug 2026 03:39:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 11:40:41 +0000</lastBuildDate>
+<item>
+<title>排水口ネット、箱買いするときサイズだけ見落としがち(PR)</title>
+<description><![CDATA[排水口ネット、箱買いするときサイズだけ見落としがちです。フリーサイズのつもりで買うと、排水口によっては緩んでズレたり、逆に伸びずに破れたりします。丸型・角型、深型・浅型の表記を先に確認しておくと、箱の分だけ無駄なく使いきれます。まとめ買いの参考にどうぞ→https://www.amazon.co.jp/s?k=%E6%8E%92%E6%B0%B4%E5%8F%A3%E3%83%8D%E3%83%83%E3%83%88&tag=kurashilabo3-22 #PR #暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0028</link>
+<guid isPermaLink="false">post-0028</guid>
+<pubDate>Fri, 07 Aug 2026 11:40:41 +0000</pubDate>
+</item>
 <item>
 <title>サブスクの整理は洗い出してから解約が正解と思われがち</title>
 <description><![CDATA[サブスクの整理は、契約中のサービスを全部洗い出してから要不要を判断するのが正解と思われがち。でも大抵その洗い出し自体で止まる。先に全部解約して、困ったものだけ困った瞬間に契約し直す方が早いというのは盲点だった。困らなかったものは、見直す価値がそもそもなかった証拠。
@@ -163,15 +170,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0009</link>
 <guid isPermaLink="false">post-0009</guid>
 <pubDate>Sun, 02 Aug 2026 05:29:27 +0900</pubDate>
-</item>
-<item>
-<title>収納は位置より動作の数で決まる</title>
-<description><![CDATA[「よく使う物は手前に置く」が収納の基本と思われがちですが、それだけでは不十分です。
-戻しやすさを決めるのは位置ではなく動作の数です。蓋を開ける、扉を開ける、そのひと手間があるだけで戻さなくなります。
-蓋なし・仕切りなしの「投げ入れるだけ」の場所にすると続きます。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0008</link>
-<guid isPermaLink="false">post-0008</guid>
-<pubDate>Sun, 02 Aug 2026 05:24:27 +0900</pubDate>
 </item>
 </channel>
 </rss>
