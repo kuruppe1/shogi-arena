@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Thu, 06 Aug 2026 22:39:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 03:39:37 +0000</lastBuildDate>
+<item>
+<title>サブスクの整理は洗い出してから解約が正解と思われがち</title>
+<description><![CDATA[サブスクの整理は、契約中のサービスを全部洗い出してから要不要を判断するのが正解と思われがち。でも大抵その洗い出し自体で止まる。先に全部解約して、困ったものだけ困った瞬間に契約し直す方が早いというのは盲点だった。困らなかったものは、見直す価値がそもそもなかった証拠。
+#暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0027</link>
+<guid isPermaLink="false">post-0027</guid>
+<pubDate>Fri, 07 Aug 2026 03:39:37 +0000</pubDate>
+</item>
 <item>
 <title>排水口ネット、切らすのは大体使う直前</title>
 <description><![CDATA[排水口ネット、切らすのは大体使う直前。少ない枚数で買うと減った実感がなく、気づいたらゼロ、というやつです。箱ごとまとめ買いして封を開けたままシンク下に置いておくと、残数が視界に入るので、次を買うタイミングを逃しません。詰め替えの手間もなし。
@@ -164,15 +172,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0008</link>
 <guid isPermaLink="false">post-0008</guid>
 <pubDate>Sun, 02 Aug 2026 05:24:27 +0900</pubDate>
-</item>
-<item>
-<title>玄関のトレーは動線に乗せると習慣になる</title>
-<description><![CDATA[鍵、マスク、イヤホン。出る直前に「あれどこだっけ」と探すことはありませんか？
-トレーを置くだけでは続きません。靴を脱ぐのと同じ手の動きで置ける位置(靴箱の上、目線より下)にすると、動作が一つ増えないので習慣になります。
-場所選びより、今ある動線に乗せることがポイントです。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0007</link>
-<guid isPermaLink="false">post-0007</guid>
-<pubDate>Sun, 02 Aug 2026 05:19:27 +0900</pubDate>
 </item>
 </channel>
 </rss>
