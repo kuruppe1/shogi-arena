@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Fri, 07 Aug 2026 22:39:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 03:40:00 +0000</lastBuildDate>
+<item>
+<title>昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち</title>
+<description><![CDATA[昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち。座ったままになるのは価格のせいというより、台所へ移動するだけの一手間を毎回忘れるからだったりする。電話中だけ台所カウンターに立つと決めておくと、移動が電話の合図で勝手に始まる。
+#暮らしの実験室 #デスク環境]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0030</link>
+<guid isPermaLink="false">post-0030</guid>
+<pubDate>Sat, 08 Aug 2026 03:40:00 +0000</pubDate>
+</item>
 <item>
 <title>衝動買いを減らす習慣3つ</title>
 <description><![CDATA[衝動買いを減らす習慣3つ
@@ -163,13 +171,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0011</link>
 <guid isPermaLink="false">post-0011</guid>
 <pubDate>Sun, 02 Aug 2026 07:37:32 +0900</pubDate>
-</item>
-<item>
-<title>暖色の常夜灯で寝る前の雰囲気を変える(PR)</title>
-<description><![CDATA[寝る前の照明を暖色の常夜灯に変えるだけでも、部屋の雰囲気が変わります。充電式で置き場所を選ばないタイプもあるので、こちらもご参考に→https://www.amazon.co.jp/s?k=%E6%9A%96%E8%89%B2%20%E5%B8%B8%E5%A4%9C%E7%81%AF&tag=kurashilabo3-22 #PR #暮らしの実験室 #睡眠]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0010</link>
-<guid isPermaLink="false">post-0010</guid>
-<pubDate>Sun, 02 Aug 2026 05:34:27 +0900</pubDate>
 </item>
 </channel>
 </rss>
