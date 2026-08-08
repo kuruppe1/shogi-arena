@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 08 Aug 2026 03:40:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 11:39:39 +0000</lastBuildDate>
+<item>
+<title>作業用BGMは気分で選ぶものと思われがちですが</title>
+<description><![CDATA[作業用BGMは気分で選ぶものと思われがちですが、選ぶ数十秒の迷いがそのまま先延ばしの入り口になる。新しくプレイリストを作らず、同じ1時間ループを1つだけタブに固定しておくと、選ぶ工程そのものがなくなる。地味に、着手までが速い。
+#暮らしの実験室 #デスク環境]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0031</link>
+<guid isPermaLink="false">post-0031</guid>
+<pubDate>Sat, 08 Aug 2026 11:39:39 +0000</pubDate>
+</item>
 <item>
 <title>昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち</title>
 <description><![CDATA[昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち。座ったままになるのは価格のせいというより、台所へ移動するだけの一手間を毎回忘れるからだったりする。電話中だけ台所カウンターに立つと決めておくと、移動が電話の合図で勝手に始まる。
@@ -160,17 +168,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0012</link>
 <guid isPermaLink="false">post-0012</guid>
 <pubDate>Sun, 02 Aug 2026 03:39:35 +0000</pubDate>
-</item>
-<item>
-<title>台所仕事を軽くする定番3つ</title>
-<description><![CDATA[台所仕事を軽くする定番3つ
-・キッチンバサミ(肉もネギも鍋の上で切れば、まな板と包丁の洗い物ごと消える)
-・キッチンスケール(ボウルごと直接量れば計量カップがいらない)
-・保存容器の1種類統一(蓋と本体の組み合わせ探しがなくなる)
-共通点は、洗う物と探す物を最初から増やさないこと。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0011</link>
-<guid isPermaLink="false">post-0011</guid>
-<pubDate>Sun, 02 Aug 2026 07:37:32 +0900</pubDate>
 </item>
 </channel>
 </rss>
