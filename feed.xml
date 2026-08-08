@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 08 Aug 2026 11:39:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 22:38:51 +0000</lastBuildDate>
+<item>
+<title>在庫、切れてから買い足す派?それとも切れる前に買う派?</title>
+<description><![CDATA[在庫、切れてから買い足す派?それとも切れる前に買う派?
+数えて先回りしようとしても、いつ数えたかを忘れて結局同じになる。同じ物の「2個目を開けた瞬間」に買うと決めておくと、数える工程ごといらなくなるのが思ったより楽。
+切らさない派、きっかけはどこにある?
+#暮らしの実験室 #キッチン]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0032</link>
+<guid isPermaLink="false">post-0032</guid>
+<pubDate>Sat, 08 Aug 2026 22:38:51 +0000</pubDate>
+</item>
 <item>
 <title>作業用BGMは気分で選ぶものと思われがちですが</title>
 <description><![CDATA[作業用BGMは気分で選ぶものと思われがちですが、選ぶ数十秒の迷いがそのまま先延ばしの入り口になる。新しくプレイリストを作らず、同じ1時間ループを1つだけタブに固定しておくと、選ぶ工程そのものがなくなる。地味に、着手までが速い。
@@ -161,13 +171,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0013</link>
 <guid isPermaLink="false">post-0013</guid>
 <pubDate>Sun, 02 Aug 2026 11:41:18 +0000</pubDate>
-</item>
-<item>
-<title>二度寝を防ぐのは音量より置き場所</title>
-<description><![CDATA[目覚ましの音量を上げても、寝ぼけて止めて二度寝する人、意外と多い。原因は音量じゃなく、毎晩同じ場所に置いてること。体が覚えて、意識が戻る前に手が止まる。枕から一歩離して、腕を伸ばしてやっと届く位置に置くと、起き上がる動作が必ず入るから二度寝しにくくなる。]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0012</link>
-<guid isPermaLink="false">post-0012</guid>
-<pubDate>Sun, 02 Aug 2026 03:39:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
