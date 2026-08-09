@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 08 Aug 2026 22:38:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 03:39:08 +0000</lastBuildDate>
+<item>
+<title>洗い物はまとめてやろうとすると量に気後れして後回しになりがちです</title>
+<description><![CDATA[洗い物はまとめてやろうとすると量に気後れして後回しになりがちです。電子レンジの温め時間、正直手は空いているのに、何をするか決めてないとスマホを見て終わる。温めボタンを押した瞬間にシンクの洗い物を1つだけ洗うと決めておくと、時間の使い道を選ぶ工程が消える。
+#暮らしの実験室 #キッチン]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0033</link>
+<guid isPermaLink="false">post-0033</guid>
+<pubDate>Sun, 09 Aug 2026 03:39:08 +0000</pubDate>
+</item>
 <item>
 <title>在庫、切れてから買い足す派?それとも切れる前に買う派?</title>
 <description><![CDATA[在庫、切れてから買い足す派?それとも切れる前に買う派?
@@ -164,13 +172,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0014</link>
 <guid isPermaLink="false">post-0014</guid>
 <pubDate>Mon, 03 Aug 2026 03:36:49 +0000</pubDate>
-</item>
-<item>
-<title>コンセントに縛られない目覚まし選び(PR)</title>
-<description><![CDATA[目覚ましを腕を伸ばす位置まで離したくても、コンセントに阻まれて諦めた人もいるはず。電池式なら配線を気にせず好きな場所に動かせる。気になる人はこちらから→https://www.amazon.co.jp/s?k=%E9%9B%BB%E6%B1%A0%E5%BC%8F%20%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88&tag=kurashilabo3-22 #PR #暮らしの実験室 #睡眠]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0013</link>
-<guid isPermaLink="false">post-0013</guid>
-<pubDate>Sun, 02 Aug 2026 11:41:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
