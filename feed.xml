@@ -5,7 +5,19 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 12 Aug 2026 11:38:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:39:35 +0000</lastBuildDate>
+<item>
+<title>家計管理が続かない人向けの工夫3つ</title>
+<description><![CDATA[家計管理が続かない人向けの工夫3つ
+・支払いはカード1枚に寄せる(明細がそのまま記録になる)
+・ポイントは貯めずその場で使う(期限を気にする手間の方が、貯めた額より大きい)
+・見直し日は「請求通知が来た日」にする(月末はまず忘れる)
+地味に3つ目が一番効く。
+#暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0035</link>
+<guid isPermaLink="false">post-0035</guid>
+<pubDate>Wed, 12 Aug 2026 22:39:35 +0000</pubDate>
+</item>
 <item>
 <title>三角コーナーは台所にあって当然のようですが、置いている時点で</title>
 <description><![CDATA[三角コーナーは台所にあって当然のようですが、置いている時点で洗う対象を1つ増やしています。正直、生ゴミそのものより受け皿を洗う方が面倒だったりする。調理中に出たごみを、まな板の脇に広げたポリ袋へ直接入れてしまえば、受け皿ごと洗わずに済む。
@@ -159,17 +171,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0016</link>
 <guid isPermaLink="false">post-0016</guid>
 <pubDate>Mon, 03 Aug 2026 12:43:06 +0000</pubDate>
-</item>
-<item>
-<title>玄関マット、やめた人いる?</title>
-<description><![CDATA[玄関マット、やめた人いる?
-敷くのが普通と思ってたけど、やめた家は「洗う・干す・戻す」の家事がまるごと消えて、汚れたら床を拭くだけ。
-洗ってないマットが一番汚れてる、と気づいてやめる人が多いっぽい。
-敷く派の理由も聞きたい。
-#暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0015</link>
-<guid isPermaLink="false">post-0015</guid>
-<pubDate>Mon, 03 Aug 2026 12:15:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
