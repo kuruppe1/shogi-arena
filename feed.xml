@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sun, 09 Aug 2026 03:39:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 11:38:51 +0000</lastBuildDate>
+<item>
+<title>三角コーナーは台所にあって当然のようですが、置いている時点で</title>
+<description><![CDATA[三角コーナーは台所にあって当然のようですが、置いている時点で洗う対象を1つ増やしています。正直、生ゴミそのものより受け皿を洗う方が面倒だったりする。調理中に出たごみを、まな板の脇に広げたポリ袋へ直接入れてしまえば、受け皿ごと洗わずに済む。
+#暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0034</link>
+<guid isPermaLink="false">post-0034</guid>
+<pubDate>Wed, 12 Aug 2026 11:38:51 +0000</pubDate>
+</item>
 <item>
 <title>洗い物はまとめてやろうとすると量に気後れして後回しになりがちです</title>
 <description><![CDATA[洗い物はまとめてやろうとすると量に気後れして後回しになりがちです。電子レンジの温め時間、正直手は空いているのに、何をするか決めてないとスマホを見て終わる。温めボタンを押した瞬間にシンクの洗い物を1つだけ洗うと決めておくと、時間の使い道を選ぶ工程が消える。
@@ -162,16 +170,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0015</link>
 <guid isPermaLink="false">post-0015</guid>
 <pubDate>Mon, 03 Aug 2026 12:15:15 +0000</pubDate>
-</item>
-<item>
-<title>冷蔵庫は「立てる」と在庫が見える</title>
-<description><![CDATA[冷蔵庫の詰め方、寝かせて重ねると下の物は見えなくなった時点で存在も忘れる。
-100均のケースに立てて入れると、扉を開けた瞬間に在庫が全部目に入る。
-奥で賞味期限が切れるのは、しまい方じゃなく置く向きの問題みたい。
-#暮らしの実験室 #キッチン]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0014</link>
-<guid isPermaLink="false">post-0014</guid>
-<pubDate>Mon, 03 Aug 2026 03:36:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
