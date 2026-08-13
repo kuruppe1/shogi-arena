@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Thu, 13 Aug 2026 03:38:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 11:40:23 +0000</lastBuildDate>
+<item>
+<title>椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中</title>
+<description><![CDATA[椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中途半端な位置で止まりがちです。合わせるのは最初の一度だけでいい。肘が机の天板と水平になる高さで座面を決めて固定すれば、以後は高さを疑う必要そのものがなくなる。拍子抜けするほど単純だけど、肩の力みは確実に減る。
+#暮らしの実験室 #デスク環境]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0037</link>
+<guid isPermaLink="false">post-0037</guid>
+<pubDate>Thu, 13 Aug 2026 11:40:23 +0000</pubDate>
+</item>
 <item>
 <title>寝る前についSNSを開くのは、意志が弱いからじゃなくて</title>
 <description><![CDATA[寝る前についSNSを開くのは、意志が弱いからじゃなくて、ホーム画面に指が覚えてる位置があるから。アイコンをフォルダの2階層目に沈めておくと、開くまでの操作が1つ増えるだけで指が迷って止まります。我慢を重ねるより、先に手間を増やしておいた方が早い。
