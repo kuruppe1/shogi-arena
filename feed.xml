@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Thu, 13 Aug 2026 11:40:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:43:28 +0000</lastBuildDate>
+<item>
+<title>シャンプー、詰め替え派?ボトルごと買い替え派?</title>
+<description><![CDATA[シャンプー、詰め替え派?ボトルごと買い替え派?
+詰め替えが続かないのは、ボトルが空になる瞬間が正直、一番やる気のない時だから。ボトルごと買い替えにすれば、その「詰める」工程自体が最初からなくなる。
+ボトルが増えるのは気になる派?それとも平気?
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0038</link>
+<guid isPermaLink="false">post-0038</guid>
+<pubDate>Thu, 13 Aug 2026 22:43:28 +0000</pubDate>
+</item>
 <item>
 <title>椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中</title>
 <description><![CDATA[椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中途半端な位置で止まりがちです。合わせるのは最初の一度だけでいい。肘が机の天板と水平になる高さで座面を決めて固定すれば、以後は高さを疑う必要そのものがなくなる。拍子抜けするほど単純だけど、肩の力みは確実に減る。
@@ -166,20 +176,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0019</link>
 <guid isPermaLink="false">post-0019</guid>
 <pubDate>Tue, 04 Aug 2026 11:41:22 +0000</pubDate>
-</item>
-<item>
-<title>書類は科目ごとに分けて保管するのが常識だけど</title>
-<description><![CDATA[書類は科目ごとに分けて保管するのが常識だけど、仕分ける作業自体が面倒で結局机に積み上がる。届いた順に「とりあえずこの箱」へ入れて、蓋が閉まらなくなったら中身を全部出し、いらない物だけ捨てる。積み上がる原因は書類の量じゃなく、仕分けという工程そのものだった。 #暮らしの実験室 #収納]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0018</link>
-<guid isPermaLink="false">post-0018</guid>
-<pubDate>Tue, 04 Aug 2026 03:38:23 +0000</pubDate>
-</item>
-<item>
-<title>掃除機を出すのが面倒で床のゴミを見なかったことにする日</title>
-<description><![CDATA[掃除機を出すのが面倒で、床のゴミを見なかったことにする日、正直ある。原因は重さより、出す・組み立てる・しまう工程の多さ。玄関の靴箱の上とか目に入る場所に、カバーなしのハンディワイパーを置きっぱなしにしておくと、通りがかりに数秒で拭けるから続く。 #暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0017</link>
-<guid isPermaLink="false">post-0017</guid>
-<pubDate>Mon, 03 Aug 2026 22:38:47 +0000</pubDate>
 </item>
 </channel>
 </rss>
