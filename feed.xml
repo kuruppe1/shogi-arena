@@ -5,7 +5,19 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Fri, 14 Aug 2026 11:47:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:39:43 +0000</lastBuildDate>
+<item>
+<title>台所仕事、工夫より工程を減らす方が効く</title>
+<description><![CDATA[台所仕事、工夫より工程を減らす方が効く
+・まな板は肉魚の日だけシートを敷く。洗う手間じゃなく汚す回数を減らす
+・主食は曜日で固定(月は麺、とか)。毎回何にするか考えずに済む
+・水筒はパッキン分解式をやめてパーツ少なめを選ぶ。結局洗わなくなるから
+案外、3つ目が一番効く
+#暮らしの実験室 #キッチン]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0041</link>
+<guid isPermaLink="false">post-0041</guid>
+<pubDate>Fri, 14 Aug 2026 22:39:43 +0000</pubDate>
+</item>
 <item>
 <title>布のフキン、丁寧に洗えば長持ちする派だと思ってた</title>
 <description><![CDATA[布のフキン、丁寧に洗えば長持ちする派だと思ってた。でも実際は洗う・干す・戻すを毎日セットでこなす前提の道具だった。使い捨ての不織布をシンク脇に箱で置いておけば、汚れたらちぎってそのまま捨てるだけで済む。清潔さは手間の量じゃなく、工程の数で決まる。
@@ -168,14 +180,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0022</link>
 <guid isPermaLink="false">post-0022</guid>
 <pubDate>Wed, 05 Aug 2026 12:57:11 +0000</pubDate>
-</item>
-<item>
-<title>「やる気が出たら」を待ってると一生手を付けない</title>
-<description><![CDATA[「やる気が出たら」を待ってると大体一生手を付けない。始める前に全体量を想像して、実際より重く感じるのが原因。タイマーを5分だけセットして始めると、終わりが最初から見えてるぶん着手のハードルだけ下がる。正直5分で切り上げてもいいはずが、大抵はそのまま続けてしまう。
-#暮らしの実験室 #節約]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0021</link>
-<guid isPermaLink="false">post-0021</guid>
-<pubDate>Wed, 05 Aug 2026 03:38:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
