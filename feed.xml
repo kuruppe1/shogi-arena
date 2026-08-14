@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Fri, 14 Aug 2026 03:39:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 11:47:31 +0000</lastBuildDate>
+<item>
+<title>布のフキン、丁寧に洗えば長持ちする派だと思ってた</title>
+<description><![CDATA[布のフキン、丁寧に洗えば長持ちする派だと思ってた。でも実際は洗う・干す・戻すを毎日セットでこなす前提の道具だった。使い捨ての不織布をシンク脇に箱で置いておけば、汚れたらちぎってそのまま捨てるだけで済む。清潔さは手間の量じゃなく、工程の数で決まる。
+#暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0040</link>
+<guid isPermaLink="false">post-0040</guid>
+<pubDate>Fri, 14 Aug 2026 11:47:31 +0000</pubDate>
+</item>
 <item>
 <title>宅配の段ボール、開けるたびキッチンまでハサミを取りに行くのが正直</title>
 <description><![CDATA[宅配の段ボール、開けるたびキッチンまでハサミを取りに行くのが正直面倒で、結局そのまま玄関に積み上がりがちです。
@@ -168,17 +176,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0021</link>
 <guid isPermaLink="false">post-0021</guid>
 <pubDate>Wed, 05 Aug 2026 03:38:42 +0000</pubDate>
-</item>
-<item>
-<title>デスク環境を整えると集中も肩も変わる</title>
-<description><![CDATA[デスク環境を整えると集中も肩も変わる
-・PCスタンド+外付けキーボード(画面は目線の高さ、手だけ下げると首が反らない)
-・机の1割を「何も置かない」と決める(全部片付けは挫折するが1割なら守れる)
-・マウスパッドは大判に(浮かせて戻す動作が消え、肩ごと動く)
-#暮らしの実験室 #デスク環境]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0020</link>
-<guid isPermaLink="false">post-0020</guid>
-<pubDate>Tue, 04 Aug 2026 22:39:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
