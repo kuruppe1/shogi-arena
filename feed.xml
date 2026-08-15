@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 15 Aug 2026 03:39:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 11:38:54 +0000</lastBuildDate>
+<item>
+<title>充電ケーブル、家中1本を持ち歩く派は正直多い</title>
+<description><![CDATA[充電ケーブル、家中1本を持ち歩く派は正直多い。でも使うたび探して抜き挿しする手間がつきまとう。本数を増やしても、部屋を移動するたび抜く・挿すの動作は消えない。寝室、デスク、リビング、使う場所ごとに1本据え置けば、その動作自体がなくなる。
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0043</link>
+<guid isPermaLink="false">post-0043</guid>
+<pubDate>Sat, 15 Aug 2026 11:38:54 +0000</pubDate>
+</item>
 <item>
 <title>朝、パソコンを開いてまず「今日何からやるか」を考える</title>
 <description><![CDATA[朝、パソコンを開いてまず「今日何からやるか」を考えるだけで数分溶けていませんか。原因は、昨夜のタブを全部閉じて記憶だけを頼りにしていること。終業時に次の朝いちばんに開くタブを1つだけ残して他を閉じておくと、開いた瞬間に手が動き出します。
@@ -174,13 +182,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0024</link>
 <guid isPermaLink="false">post-0024</guid>
 <pubDate>Thu, 06 Aug 2026 03:38:53 +0000</pubDate>
-</item>
-<item>
-<title>クローゼットの床に物が積まれる原因</title>
-<description><![CDATA[クローゼットの床に物が積まれるのは、収納力じゃなくて、しゃがんで畳んで置くという動作が地味に多いから。ハンガーポールの余白に吊り下げ収納を足すだけで、しゃがむ工程がまるごと消える。「上着」「バッグ」と仕切りごとに決めておけば、迷わず戻せる。 #暮らしの実験室 #収納]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0023</link>
-<guid isPermaLink="false">post-0023</guid>
-<pubDate>Wed, 05 Aug 2026 22:39:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
