@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sun, 16 Aug 2026 11:38:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:40:40 +0000</lastBuildDate>
+<item>
+<title>足元のケーブル、結束バンドでまとめても、掃除のたびに</title>
+<description><![CDATA[足元のケーブル、結束バンドでまとめても、掃除のたびに一度どかす前提は変わらない。配線トレーを天板の裏に両面テープで留めて、電源タップごとケーブルを持ち上げてしまえば、そもそも床にケーブルがなくなる。
+#暮らしの実験室 #デスク環境]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0047</link>
+<guid isPermaLink="false">post-0047</guid>
+<pubDate>Sun, 16 Aug 2026 22:40:40 +0000</pubDate>
+</item>
 <item>
 <title>洗剤は場所ごとに専用を揃えるのが正解だと思ってた</title>
 <description><![CDATA[洗剤は場所ごとに専用を揃えるのが正解だと思ってた。でも実際は、浴室・キッチン・洗面所でそれぞれ切れるタイミングがバラバラで、結局いつも何かしらを買い足してる。中性洗剤1本に統一すれば、選ぶ数秒も、切れる場所を覚えておく手間もまとめて消える。
@@ -175,29 +183,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0028</link>
 <guid isPermaLink="false">post-0028</guid>
 <pubDate>Fri, 07 Aug 2026 11:40:41 +0000</pubDate>
-</item>
-<item>
-<title>サブスクの整理は洗い出してから解約が正解と思われがち</title>
-<description><![CDATA[サブスクの整理は、契約中のサービスを全部洗い出してから要不要を判断するのが正解と思われがち。でも大抵その洗い出し自体で止まる。先に全部解約して、困ったものだけ困った瞬間に契約し直す方が早いというのは盲点だった。困らなかったものは、見直す価値がそもそもなかった証拠。
-#暮らしの実験室 #節約]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0027</link>
-<guid isPermaLink="false">post-0027</guid>
-<pubDate>Fri, 07 Aug 2026 03:39:37 +0000</pubDate>
-</item>
-<item>
-<title>排水口ネット、切らすのは大体使う直前</title>
-<description><![CDATA[排水口ネット、切らすのは大体使う直前。少ない枚数で買うと減った実感がなく、気づいたらゼロ、というやつです。箱ごとまとめ買いして封を開けたままシンク下に置いておくと、残数が視界に入るので、次を買うタイミングを逃しません。詰め替えの手間もなし。
-#暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0026</link>
-<guid isPermaLink="false">post-0026</guid>
-<pubDate>Thu, 06 Aug 2026 22:39:27 +0000</pubDate>
-</item>
-<item>
-<title>普通のハンガーだと靴下やハンカチは掛けられない(PR)</title>
-<description><![CDATA[靴下やハンカチは普通のハンガーだと掛ける場所がなくて、乾いたら結局まとめて畳んで別のカゴに戻すことになりがち。正直そこだけ二度手間だったりする。ピンチが並んだハンガーなら小物も1つずつ挟んで、上着と同じ一本のポールにそのまま吊るせます。増やしたい人はこちらから→https://www.amazon.co.jp/s?k=%E6%B4%97%E6%BF%AF%E3%83%90%E3%82%B5%E3%83%9F%E4%BB%98%E3%81%8D%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC&tag=kurashilabo3-22 #PR #暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0025</link>
-<guid isPermaLink="false">post-0025</guid>
-<pubDate>Thu, 06 Aug 2026 11:39:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
