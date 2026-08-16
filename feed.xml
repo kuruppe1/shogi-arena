@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 15 Aug 2026 22:38:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 03:39:12 +0000</lastBuildDate>
+<item>
+<title>寝る前のスマホをやめようと決意しても、大体その日のうちに</title>
+<description><![CDATA[寝る前のスマホをやめようと決意しても、大体その日のうちに崩れます。原因は意志じゃなく、暗闇で手を伸ばした先にスマホしかないから。枕元に栞を挟んだ文庫本を1冊置いておくと、正直、手を伸ばす動作の先が本に変わるだけで済みます。我慢より、行き先を用意しておく方が楽そうです。
+#暮らしの実験室 #睡眠]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0045</link>
+<guid isPermaLink="false">post-0045</guid>
+<pubDate>Sun, 16 Aug 2026 03:39:12 +0000</pubDate>
+</item>
 <item>
 <title>物、壊れてから買い替える派?使うたびに舌打ちする派?</title>
 <description><![CDATA[物、壊れてから買い替える派?使うたびに舌打ちする派?
@@ -182,16 +190,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0025</link>
 <guid isPermaLink="false">post-0025</guid>
 <pubDate>Thu, 06 Aug 2026 11:39:50 +0000</pubDate>
-</item>
-<item>
-<title>洗濯物、乾いたら畳む派？それとも吊るす派？</title>
-<description><![CDATA[洗濯物、乾いたら畳む派？そのまま吊るす派？
-畳むのが面倒なんじゃなく、外す→畳む→しまうを毎回やり直すのがしんどいだけかもしれない。
-洗濯バサミ付きハンガーのままクローゼットのポールに掛けると、外すのも畳むのもいらなくなる。
-畳む派はどこで踏ん張ってる？逆に聞きたい。 #暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0024</link>
-<guid isPermaLink="false">post-0024</guid>
-<pubDate>Thu, 06 Aug 2026 03:38:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
