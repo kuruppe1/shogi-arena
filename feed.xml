@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sun, 16 Aug 2026 22:40:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 03:39:54 +0000</lastBuildDate>
+<item>
+<title>郵便物は机の上で開けるものだと思われがちですが、部屋に着くこ</title>
+<description><![CDATA[郵便物は机の上で開けるものだと思われがちですが、部屋に着くころには他の用事が挟まって、封を切らないまま積まれていくことの方が多い気がします。玄関に紙ゴミ用の箱を一つ置いて、受け取った瞬間にその場で仕分けてしまえば、持ち込む枚数を先に減らせます。
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0048</link>
+<guid isPermaLink="false">post-0048</guid>
+<pubDate>Mon, 17 Aug 2026 03:39:54 +0000</pubDate>
+</item>
 <item>
 <title>足元のケーブル、結束バンドでまとめても、掃除のたびに</title>
 <description><![CDATA[足元のケーブル、結束バンドでまとめても、掃除のたびに一度どかす前提は変わらない。配線トレーを天板の裏に両面テープで留めて、電源タップごとケーブルを持ち上げてしまえば、そもそも床にケーブルがなくなる。
@@ -176,13 +184,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0029</link>
 <guid isPermaLink="false">post-0029</guid>
 <pubDate>Fri, 07 Aug 2026 22:39:33 +0000</pubDate>
-</item>
-<item>
-<title>排水口ネット、箱買いするときサイズだけ見落としがち(PR)</title>
-<description><![CDATA[排水口ネット、箱買いするときサイズだけ見落としがちです。フリーサイズのつもりで買うと、排水口によっては緩んでズレたり、逆に伸びずに破れたりします。丸型・角型、深型・浅型の表記を先に確認しておくと、箱の分だけ無駄なく使いきれます。まとめ買いの参考にどうぞ→https://www.amazon.co.jp/s?k=%E6%8E%92%E6%B0%B4%E5%8F%A3%E3%83%8D%E3%83%83%E3%83%88&tag=kurashilabo3-22 #PR #暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0028</link>
-<guid isPermaLink="false">post-0028</guid>
-<pubDate>Fri, 07 Aug 2026 11:40:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
