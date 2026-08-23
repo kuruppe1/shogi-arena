@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sun, 23 Aug 2026 03:39:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 13:52:14 +0000</lastBuildDate>
+<item>
+<title>現金払いのほうが浪費を抑えられると言われますが、正直、手間が</title>
+<description><![CDATA[現金払いのほうが浪費を抑えられると言われますが、正直、手間がかかるのはレシートを財布にため込んで後から家計簿に転記する作業のほうです。キャッシュレス1本に絞れば、明細は自動で残るから、あとは見返すだけで済む。
+#暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0051</link>
+<guid isPermaLink="false">post-0051</guid>
+<pubDate>Sun, 23 Aug 2026 13:52:14 +0000</pubDate>
+</item>
 <item>
 <title>洗面台の排水口、髪の毛をつまんで取るのが地味に苦手で</title>
 <description><![CDATA[洗面台の排水口、髪の毛をつまんで取るのが地味に苦手で、絡まるまで放置しがちです。絡む前に、週1回、使い捨てシートで排水口のふちだけ拭いておけば、つまむ作業自体がなくなります。歯磨きのついでで十分。
@@ -175,14 +183,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0032</link>
 <guid isPermaLink="false">post-0032</guid>
 <pubDate>Sat, 08 Aug 2026 22:38:51 +0000</pubDate>
-</item>
-<item>
-<title>作業用BGMは気分で選ぶものと思われがちですが</title>
-<description><![CDATA[作業用BGMは気分で選ぶものと思われがちですが、選ぶ数十秒の迷いがそのまま先延ばしの入り口になる。新しくプレイリストを作らず、同じ1時間ループを1つだけタブに固定しておくと、選ぶ工程そのものがなくなる。地味に、着手までが速い。
-#暮らしの実験室 #デスク環境]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0031</link>
-<guid isPermaLink="false">post-0031</guid>
-<pubDate>Sat, 08 Aug 2026 11:39:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
