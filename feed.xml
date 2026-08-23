@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Mon, 17 Aug 2026 11:42:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 03:39:30 +0000</lastBuildDate>
+<item>
+<title>洗面台の排水口、髪の毛をつまんで取るのが地味に苦手で</title>
+<description><![CDATA[洗面台の排水口、髪の毛をつまんで取るのが地味に苦手で、絡まるまで放置しがちです。絡む前に、週1回、使い捨てシートで排水口のふちだけ拭いておけば、つまむ作業自体がなくなります。歯磨きのついでで十分。
+#暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0050</link>
+<guid isPermaLink="false">post-0050</guid>
+<pubDate>Sun, 23 Aug 2026 03:39:30 +0000</pubDate>
+</item>
 <item>
 <title>朝ごはん、毎日メニュー変える派?固定する派?</title>
 <description><![CDATA[朝ごはん、毎日メニュー変える派?固定する派?
@@ -175,14 +183,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0031</link>
 <guid isPermaLink="false">post-0031</guid>
 <pubDate>Sat, 08 Aug 2026 11:39:39 +0000</pubDate>
-</item>
-<item>
-<title>昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち</title>
-<description><![CDATA[昇降デスクが欲しくても、数万円は出せずそのまま我慢しがち。座ったままになるのは価格のせいというより、台所へ移動するだけの一手間を毎回忘れるからだったりする。電話中だけ台所カウンターに立つと決めておくと、移動が電話の合図で勝手に始まる。
-#暮らしの実験室 #デスク環境]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0030</link>
-<guid isPermaLink="false">post-0030</guid>
-<pubDate>Sat, 08 Aug 2026 03:40:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
