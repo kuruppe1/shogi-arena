@@ -5,7 +5,19 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sun, 23 Aug 2026 13:52:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:39:47 +0000</lastBuildDate>
+<item>
+<title>付箋も充電も、気づいたら毎回同じ動作をしてる</title>
+<description><![CDATA[付箋も充電も、気づいたら毎回同じ動作をしてる
+・充電はワイヤレス充電器で常設(挿す抜くがなくなる)
+・付箋は貼る場所を毎回選ぶから続かない。机の1冊にメモ
+・書類はしまう工程がある分積み上がる。見る専用トレーに立てるだけ
+道具より、工程を減らす方が早かった
+#暮らしの実験室 #デスク環境]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0052</link>
+<guid isPermaLink="false">post-0052</guid>
+<pubDate>Mon, 24 Aug 2026 22:39:47 +0000</pubDate>
+</item>
 <item>
 <title>現金払いのほうが浪費を抑えられると言われますが、正直、手間が</title>
 <description><![CDATA[現金払いのほうが浪費を抑えられると言われますが、正直、手間がかかるのはレシートを財布にため込んで後から家計簿に転記する作業のほうです。キャッシュレス1本に絞れば、明細は自動で残るから、あとは見返すだけで済む。
@@ -173,16 +185,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0033</link>
 <guid isPermaLink="false">post-0033</guid>
 <pubDate>Sun, 09 Aug 2026 03:39:08 +0000</pubDate>
-</item>
-<item>
-<title>在庫、切れてから買い足す派?それとも切れる前に買う派?</title>
-<description><![CDATA[在庫、切れてから買い足す派?それとも切れる前に買う派?
-数えて先回りしようとしても、いつ数えたかを忘れて結局同じになる。同じ物の「2個目を開けた瞬間」に買うと決めておくと、数える工程ごといらなくなるのが思ったより楽。
-切らさない派、きっかけはどこにある?
-#暮らしの実験室 #キッチン]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0032</link>
-<guid isPermaLink="false">post-0032</guid>
-<pubDate>Sat, 08 Aug 2026 22:38:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
