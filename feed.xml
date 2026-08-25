@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Tue, 25 Aug 2026 03:39:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 11:39:45 +0000</lastBuildDate>
+<item>
+<title>靴下、洗濯後にペアを探すのが毎回面倒だったけど</title>
+<description><![CDATA[靴下、洗濯後にペアを探すのが毎回面倒だったけど、脱いだ時点でバラバラになった2枚を、乾いてから山の中で探してるのが原因だった。洗う前に靴下クリップで挟んで洗濯機に入れておくと、干し上がりまでペアのまま。探し直す手間はゼロになる。
+#暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0054</link>
+<guid isPermaLink="false">post-0054</guid>
+<pubDate>Tue, 25 Aug 2026 11:39:45 +0000</pubDate>
+</item>
 <item>
 <title>上着とバッグ、玄関で脱いだのに結局部屋まで持って入っ</title>
 <description><![CDATA[上着とバッグ、玄関で脱いだのに結局部屋まで持って入ってしまう。
@@ -179,14 +187,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0035</link>
 <guid isPermaLink="false">post-0035</guid>
 <pubDate>Wed, 12 Aug 2026 22:39:35 +0000</pubDate>
-</item>
-<item>
-<title>三角コーナーは台所にあって当然のようですが、置いている時点で</title>
-<description><![CDATA[三角コーナーは台所にあって当然のようですが、置いている時点で洗う対象を1つ増やしています。正直、生ゴミそのものより受け皿を洗う方が面倒だったりする。調理中に出たごみを、まな板の脇に広げたポリ袋へ直接入れてしまえば、受け皿ごと洗わずに済む。
-#暮らしの実験室 #掃除]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0034</link>
-<guid isPermaLink="false">post-0034</guid>
-<pubDate>Wed, 12 Aug 2026 11:38:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
