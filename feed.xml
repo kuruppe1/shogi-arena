@@ -5,7 +5,18 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Tue, 25 Aug 2026 11:39:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 22:38:53 +0000</lastBuildDate>
+<item>
+<title>寝る前の水、コップ毎回出す派?1個を使い回す派?</title>
+<description><![CDATA[寝る前の水、コップ毎回出す派?1個を使い回す派?
+洗って戻すことより、寝ぼけた頭で「どれがきれいか」を選ぶ瞬間のほうが、頭を使ってる気がする。
+枕元のコップを1個だけと決めておけば、朝は流しへ運ぶだけで、選ぶ場面自体をなくせる。
+出す派の言い分も気になる。
+#暮らしの実験室 #睡眠]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0055</link>
+<guid isPermaLink="false">post-0055</guid>
+<pubDate>Tue, 25 Aug 2026 22:38:53 +0000</pubDate>
+</item>
 <item>
 <title>靴下、洗濯後にペアを探すのが毎回面倒だったけど</title>
 <description><![CDATA[靴下、洗濯後にペアを探すのが毎回面倒だったけど、脱いだ時点でバラバラになった2枚を、乾いてから山の中で探してるのが原因だった。洗う前に靴下クリップで挟んで洗濯機に入れておくと、干し上がりまでペアのまま。探し直す手間はゼロになる。
@@ -175,18 +186,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0036</link>
 <guid isPermaLink="false">post-0036</guid>
 <pubDate>Thu, 13 Aug 2026 03:38:34 +0000</pubDate>
-</item>
-<item>
-<title>家計管理が続かない人向けの工夫3つ</title>
-<description><![CDATA[家計管理が続かない人向けの工夫3つ
-・支払いはカード1枚に寄せる(明細がそのまま記録になる)
-・ポイントは貯めずその場で使う(期限を気にする手間の方が、貯めた額より大きい)
-・見直し日は「請求通知が来た日」にする(月末はまず忘れる)
-地味に3つ目が一番効く。
-#暮らしの実験室 #節約]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0035</link>
-<guid isPermaLink="false">post-0035</guid>
-<pubDate>Wed, 12 Aug 2026 22:39:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
