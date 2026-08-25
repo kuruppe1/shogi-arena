@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Mon, 24 Aug 2026 22:39:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 03:39:26 +0000</lastBuildDate>
+<item>
+<title>上着とバッグ、玄関で脱いだのに結局部屋まで持って入っ</title>
+<description><![CDATA[上着とバッグ、玄関で脱いだのに結局部屋まで持って入ってしまう。
+置き場所を選ぶ一瞬の迷いが、そのまま「後で片付ける」に変わる。そこだけがネック。
+玄関の靴箱の上にカゴを一つ置いて放り込むだけにすれば、その迷う工程自体が消える。
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0053</link>
+<guid isPermaLink="false">post-0053</guid>
+<pubDate>Tue, 25 Aug 2026 03:39:26 +0000</pubDate>
+</item>
 <item>
 <title>付箋も充電も、気づいたら毎回同じ動作をしてる</title>
 <description><![CDATA[付箋も充電も、気づいたら毎回同じ動作をしてる
@@ -177,14 +187,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0034</link>
 <guid isPermaLink="false">post-0034</guid>
 <pubDate>Wed, 12 Aug 2026 11:38:51 +0000</pubDate>
-</item>
-<item>
-<title>洗い物はまとめてやろうとすると量に気後れして後回しになりがちです</title>
-<description><![CDATA[洗い物はまとめてやろうとすると量に気後れして後回しになりがちです。電子レンジの温め時間、正直手は空いているのに、何をするか決めてないとスマホを見て終わる。温めボタンを押した瞬間にシンクの洗い物を1つだけ洗うと決めておくと、時間の使い道を選ぶ工程が消える。
-#暮らしの実験室 #キッチン]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0033</link>
-<guid isPermaLink="false">post-0033</guid>
-<pubDate>Sun, 09 Aug 2026 03:39:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
