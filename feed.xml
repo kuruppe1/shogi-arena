@@ -5,7 +5,19 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 26 Aug 2026 11:42:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:39:43 +0000</lastBuildDate>
+<item>
+<title>お金まわりの管理、覚えておくだけだと大体抜ける</title>
+<description><![CDATA[お金まわりの管理、覚えておくだけだと大体抜ける
+・固定費は契約直後にカレンダーへ「解約検討日」を入れる
+・サブスクの更新日は契約時点で1週間前通知を設定
+・欲しい物は買うか保留か、1枚のメモに書き分けるだけ
+頭で覚えようとするから抜ける。先に外へ出しておけばいい
+#暮らしの実験室 #節約]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0058</link>
+<guid isPermaLink="false">post-0058</guid>
+<pubDate>Wed, 26 Aug 2026 22:39:43 +0000</pubDate>
+</item>
 <item>
 <title>リモコンは本数を減らせば迷わなくなると思われがちだけど、正</title>
 <description><![CDATA[リモコンは本数を減らせば迷わなくなると思われがちだけど、正直、原因は数じゃなく置き場所。リビングで使って寝室へ持ち込んだまま忘れる、そのズレが探す時間を生んでる。部屋ごとの壁に壁掛けポケットを付けて、使ったらすぐ戻すようにすると、探す動作をやらずに済む。
@@ -176,16 +188,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0039</link>
 <guid isPermaLink="false">post-0039</guid>
 <pubDate>Fri, 14 Aug 2026 03:39:00 +0000</pubDate>
-</item>
-<item>
-<title>シャンプー、詰め替え派?ボトルごと買い替え派?</title>
-<description><![CDATA[シャンプー、詰め替え派?ボトルごと買い替え派?
-詰め替えが続かないのは、ボトルが空になる瞬間が正直、一番やる気のない時だから。ボトルごと買い替えにすれば、その「詰める」工程自体が最初からなくなる。
-ボトルが増えるのは気になる派?それとも平気?
-#暮らしの実験室 #収納]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0038</link>
-<guid isPermaLink="false">post-0038</guid>
-<pubDate>Thu, 13 Aug 2026 22:43:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
