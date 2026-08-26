@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 26 Aug 2026 03:38:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 11:42:06 +0000</lastBuildDate>
+<item>
+<title>リモコンは本数を減らせば迷わなくなると思われがちだけど、正</title>
+<description><![CDATA[リモコンは本数を減らせば迷わなくなると思われがちだけど、正直、原因は数じゃなく置き場所。リビングで使って寝室へ持ち込んだまま忘れる、そのズレが探す時間を生んでる。部屋ごとの壁に壁掛けポケットを付けて、使ったらすぐ戻すようにすると、探す動作をやらずに済む。
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0057</link>
+<guid isPermaLink="false">post-0057</guid>
+<pubDate>Wed, 26 Aug 2026 11:42:06 +0000</pubDate>
+</item>
 <item>
 <title>鍋の焦げ、お湯に浸ければ落ちやすいのは分かってるけど、洗う前</title>
 <description><![CDATA[鍋の焦げ、お湯に浸ければ落ちやすいのは分かってるけど、洗う前に桶をわざわざ出すのが面倒で、結局そのまま洗ってしまいがち。シンクの隅に桶を常備しておけば、食べ終わった瞬間にそのまま浸けられる。出しておくかどうかだけで、この差は地味に大きい。
@@ -178,14 +186,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0038</link>
 <guid isPermaLink="false">post-0038</guid>
 <pubDate>Thu, 13 Aug 2026 22:43:28 +0000</pubDate>
-</item>
-<item>
-<title>椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中</title>
-<description><![CDATA[椅子の高さ調整レバー、座ったまま何度も探ろうとするから毎回中途半端な位置で止まりがちです。合わせるのは最初の一度だけでいい。肘が机の天板と水平になる高さで座面を決めて固定すれば、以後は高さを疑う必要そのものがなくなる。拍子抜けするほど単純だけど、肩の力みは確実に減る。
-#暮らしの実験室 #デスク環境]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0037</link>
-<guid isPermaLink="false">post-0037</guid>
-<pubDate>Thu, 13 Aug 2026 11:40:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
