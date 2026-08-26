@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Tue, 25 Aug 2026 22:38:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 03:38:36 +0000</lastBuildDate>
+<item>
+<title>鍋の焦げ、お湯に浸ければ落ちやすいのは分かってるけど、洗う前</title>
+<description><![CDATA[鍋の焦げ、お湯に浸ければ落ちやすいのは分かってるけど、洗う前に桶をわざわざ出すのが面倒で、結局そのまま洗ってしまいがち。シンクの隅に桶を常備しておけば、食べ終わった瞬間にそのまま浸けられる。出しておくかどうかだけで、この差は地味に大きい。
+#暮らしの実験室 #キッチン]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0056</link>
+<guid isPermaLink="false">post-0056</guid>
+<pubDate>Wed, 26 Aug 2026 03:38:36 +0000</pubDate>
+</item>
 <item>
 <title>寝る前の水、コップ毎回出す派?1個を使い回す派?</title>
 <description><![CDATA[寝る前の水、コップ毎回出す派?1個を使い回す派?
@@ -178,14 +186,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0037</link>
 <guid isPermaLink="false">post-0037</guid>
 <pubDate>Thu, 13 Aug 2026 11:40:23 +0000</pubDate>
-</item>
-<item>
-<title>寝る前についSNSを開くのは、意志が弱いからじゃなくて</title>
-<description><![CDATA[寝る前についSNSを開くのは、意志が弱いからじゃなくて、ホーム画面に指が覚えてる位置があるから。アイコンをフォルダの2階層目に沈めておくと、開くまでの操作が1つ増えるだけで指が迷って止まります。我慢を重ねるより、先に手間を増やしておいた方が早い。
-#暮らしの実験室 #睡眠]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0036</link>
-<guid isPermaLink="false">post-0036</guid>
-<pubDate>Thu, 13 Aug 2026 03:38:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
