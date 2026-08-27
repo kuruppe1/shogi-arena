@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Thu, 27 Aug 2026 11:40:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 22:38:45 +0000</lastBuildDate>
+<item>
+<title>紙袋や空き箱、いつか使うかもと取っておく派?その場で捨てる派?</title>
+<description><![CDATA[紙袋や空き箱、いつか使うかもと取っておく派?その場で捨てる派?
+使うかどうかで迷うから答えが出ないまま、棚の奥で年々増えてる気がする。押し入れの隅に空き箱1つ分と決めておけば、収まるかどうかだけで自然に判断がつく。
+取っておく派、実際どのくらい使ってる?
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0061</link>
+<guid isPermaLink="false">post-0061</guid>
+<pubDate>Thu, 27 Aug 2026 22:38:45 +0000</pubDate>
+</item>
 <item>
 <title>ゴミ袋、引き出しにストックしておいて使う直前に1枚取りに行く</title>
 <description><![CDATA[ゴミ袋、引き出しにストックしておいて使う直前に1枚取りに行く人、多いはず。その一往復が思いのほか面倒で、つい後回しにしがち。ロールごと切り離さず、シンク下の扉裏にフックで吊るしておけば、その場でミシン目からちぎるだけ。
@@ -174,18 +184,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0042</link>
 <guid isPermaLink="false">post-0042</guid>
 <pubDate>Sat, 15 Aug 2026 03:39:54 +0000</pubDate>
-</item>
-<item>
-<title>台所仕事、工夫より工程を減らす方が効く</title>
-<description><![CDATA[台所仕事、工夫より工程を減らす方が効く
-・まな板は肉魚の日だけシートを敷く。洗う手間じゃなく汚す回数を減らす
-・主食は曜日で固定(月は麺、とか)。毎回何にするか考えずに済む
-・水筒はパッキン分解式をやめてパーツ少なめを選ぶ。結局洗わなくなるから
-案外、3つ目が一番効く
-#暮らしの実験室 #キッチン]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0041</link>
-<guid isPermaLink="false">post-0041</guid>
-<pubDate>Fri, 14 Aug 2026 22:39:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
