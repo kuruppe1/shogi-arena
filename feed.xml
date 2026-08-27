@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 26 Aug 2026 22:39:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 03:39:40 +0000</lastBuildDate>
+<item>
+<title>二度寝する朝は、決まって「あと5分」から崩れる</title>
+<description><![CDATA[二度寝する朝は、決まって「あと5分」から崩れる。理由は眠気より、布団の中でまだ今日着る服を決めていないこと。前の晩、布団を出た先の椅子に服を出しておくと、起きてすぐ手が服に伸びる。
+#暮らしの実験室 #睡眠]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0059</link>
+<guid isPermaLink="false">post-0059</guid>
+<pubDate>Thu, 27 Aug 2026 03:39:40 +0000</pubDate>
+</item>
 <item>
 <title>お金まわりの管理、覚えておくだけだと大体抜ける</title>
 <description><![CDATA[お金まわりの管理、覚えておくだけだと大体抜ける
@@ -178,16 +186,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0040</link>
 <guid isPermaLink="false">post-0040</guid>
 <pubDate>Fri, 14 Aug 2026 11:47:31 +0000</pubDate>
-</item>
-<item>
-<title>宅配の段ボール、開けるたびキッチンまでハサミを取りに行くのが正直</title>
-<description><![CDATA[宅配の段ボール、開けるたびキッチンまでハサミを取りに行くのが正直面倒で、結局そのまま玄関に積み上がりがちです。
-段ボールカッター一つを玄関の靴箱の上に置いておけば、受け取った瞬間にその場で開けて畳むところまで終わる。
-探しに行く動作がまるごとなくなります。
-#暮らしの実験室 #収納]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0039</link>
-<guid isPermaLink="false">post-0039</guid>
-<pubDate>Fri, 14 Aug 2026 03:39:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
