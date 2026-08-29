@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 29 Aug 2026 11:40:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 22:40:15 +0000</lastBuildDate>
+<item>
+<title>詰め替え用のパウチ、経済的で環境にもいいと思ってた</title>
+<description><![CDATA[詰め替え用のパウチ、経済的で環境にもいいと思ってた。でも実際は、移し替える瞬間にこぼしたり、空になった容器を洗う手間がついてまわる。ボトルのまま使い切れるタイプを最初から選べば、その手間はまるごと消える。
+#暮らしの実験室 #収納]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0064</link>
+<guid isPermaLink="false">post-0064</guid>
+<pubDate>Sat, 29 Aug 2026 22:40:15 +0000</pubDate>
+</item>
 <item>
 <title>目覚ましは音を大きくすれば起きられると思われがちだが</title>
 <description><![CDATA[目覚ましは音を大きくすれば起きられると思われがちだが、半分寝ている手のほうが思ったより強くて、鳴った瞬間に無意識で止めてしまう。効くのは音より光の量で、起床15分前からゆっくり明るくなるタイマー式のライトを枕元に置いておくと、待たなくても勝手に目が覚めている。
@@ -174,16 +182,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0045</link>
 <guid isPermaLink="false">post-0045</guid>
 <pubDate>Sun, 16 Aug 2026 03:39:12 +0000</pubDate>
-</item>
-<item>
-<title>物、壊れてから買い替える派?使うたびに舌打ちする派?</title>
-<description><![CDATA[物、壊れてから買い替える派?使うたびに舌打ちする派?
-正直、待つ派が多い。壊れてないのに買うのは「もったいない」の抵抗が強いから。舌打ちが3回続いたら、次の買い物リストに1行足すだけにすると、不便に慣れて気づかなくなる前に動ける。
-舌打ちの正体、何がある?
-#暮らしの実験室 #節約]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0044</link>
-<guid isPermaLink="false">post-0044</guid>
-<pubDate>Sat, 15 Aug 2026 22:38:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
