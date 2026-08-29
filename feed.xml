@@ -5,7 +5,15 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Thu, 27 Aug 2026 22:38:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 03:39:20 +0000</lastBuildDate>
+<item>
+<title>洗濯洗剤、目盛りに合わせて注いでいるつもりでも</title>
+<description><![CDATA[洗濯洗剤、目盛りに合わせて注いでいるつもりでも、寝ぼけた朝や急いでいる時はつい目分量になりがちです。ワンプッシュで既定量が出る詰め替え容器に替えて、洗濯機のふたの上に置いておく。覚えるのはプッシュの回数だけ。
+#暮らしの実験室 #掃除]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0062</link>
+<guid isPermaLink="false">post-0062</guid>
+<pubDate>Sat, 29 Aug 2026 03:39:20 +0000</pubDate>
+</item>
 <item>
 <title>紙袋や空き箱、いつか使うかもと取っておく派?その場で捨てる派?</title>
 <description><![CDATA[紙袋や空き箱、いつか使うかもと取っておく派?その場で捨てる派?
@@ -176,14 +184,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0043</link>
 <guid isPermaLink="false">post-0043</guid>
 <pubDate>Sat, 15 Aug 2026 11:38:54 +0000</pubDate>
-</item>
-<item>
-<title>朝、パソコンを開いてまず「今日何からやるか」を考える</title>
-<description><![CDATA[朝、パソコンを開いてまず「今日何からやるか」を考えるだけで数分溶けていませんか。原因は、昨夜のタブを全部閉じて記憶だけを頼りにしていること。終業時に次の朝いちばんに開くタブを1つだけ残して他を閉じておくと、開いた瞬間に手が動き出します。
-#暮らしの実験室 #デスク環境]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0042</link>
-<guid isPermaLink="false">post-0042</guid>
-<pubDate>Sat, 15 Aug 2026 03:39:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
