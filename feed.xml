@@ -5,7 +5,17 @@
 <link>https://github.com/kuruppe1/shogi-arena</link>
 <description>X自動投稿用のフィード。新着itemがIFTTT経由でXに投稿される。</description>
 <language>ja</language>
-<lastBuildDate>Sat, 29 Aug 2026 22:40:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 03:39:12 +0000</lastBuildDate>
+<item>
+<title>調味料、使いかけは元の容器のまま？詰め替える派？</title>
+<description><![CDATA[調味料、使いかけは元の容器のまま？詰め替える派？
+新しい分をつい手前に置くから、使いかけは奥へ追いやられる。形も色もバラバラで、奥にあるか一目で分からない。開けたら同じボトルへ移し、棚の一番手前に置くと決めれば、新しい分は奥へ回る。
+詰め替えない派の言い分も聞いてみたい。
+#暮らしの実験室 #キッチン]]></description>
+<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0065</link>
+<guid isPermaLink="false">post-0065</guid>
+<pubDate>Sun, 30 Aug 2026 03:39:12 +0000</pubDate>
+</item>
 <item>
 <title>詰め替え用のパウチ、経済的で環境にもいいと思ってた</title>
 <description><![CDATA[詰め替え用のパウチ、経済的で環境にもいいと思ってた。でも実際は、移し替える瞬間にこぼしたり、空になった容器を洗う手間がついてまわる。ボトルのまま使い切れるタイプを最初から選べば、その手間はまるごと消える。
@@ -174,14 +184,6 @@
 <link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0046</link>
 <guid isPermaLink="false">post-0046</guid>
 <pubDate>Sun, 16 Aug 2026 11:38:43 +0000</pubDate>
-</item>
-<item>
-<title>寝る前のスマホをやめようと決意しても、大体その日のうちに</title>
-<description><![CDATA[寝る前のスマホをやめようと決意しても、大体その日のうちに崩れます。原因は意志じゃなく、暗闇で手を伸ばした先にスマホしかないから。枕元に栞を挟んだ文庫本を1冊置いておくと、正直、手を伸ばす動作の先が本に変わるだけで済みます。我慢より、行き先を用意しておく方が楽そうです。
-#暮らしの実験室 #睡眠]]></description>
-<link>https://github.com/kuruppe1/shogi-arena/blob/main/x-engine/log.md#post-0045</link>
-<guid isPermaLink="false">post-0045</guid>
-<pubDate>Sun, 16 Aug 2026 03:39:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
